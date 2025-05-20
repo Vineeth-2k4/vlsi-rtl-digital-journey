@@ -17,5 +17,5 @@
 - [Log your time here]
 
 ## 📸 Screenshots
-- [Attach GTKWave screenshot]
+- ![day 01 waveform](waveform_day01.png)
 
