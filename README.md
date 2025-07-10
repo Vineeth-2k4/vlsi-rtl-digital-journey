@@ -14,6 +14,14 @@ This repository contains a structured journey through Digital Logic & RTL Design
 - Unified testbench for all modules.
 - View simulation waveforms with GTKWave.
 - Notes and waveform screenshot available in docs/day02_notes.md.
+
+### Day 3: Dataflow Adders
+
+- Directory: `day03_dataflow_adders/`
+- Write and simulate Half Adder, Full Adder, and 4-bit Ripple Carry Adder using `assign`.
+- Testbench provided for ripple adder. View waveforms with GTKWave.
+- Notes and waveform screenshot available in `docs/day03_notes.md`.
+
 ## Usage
 1. Follow the install guide in `tools/`.
 2. Navigate to `day01_structural_gates/`.
