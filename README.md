@@ -8,7 +8,7 @@ This repository contains a structured journey through Digital Logic & RTL Design
 - Testbench provided. View waveforms with GTKWave.
 
 ## Day 2: Behavioural Gates 
-- Directory: day02_behavioral_gates/
+- Directory: `day02_behavioral_gates/`
 - Write and simulate AND, OR, XOR, NOT gates using behavioral modeling (always @(*)).
 - Implement a 2:1 multiplexer using ternary operator (? :).
 - Unified testbench for all modules.
